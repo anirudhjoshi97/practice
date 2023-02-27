@@ -1,0 +1,2 @@
+Hi my name is anirudh joshi
+And I am practicing git bash 
